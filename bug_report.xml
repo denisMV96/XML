@@ -1,0 +1,5 @@
+<req>
+  <what>incorrect data calculation</what>
+  <where>on the page 1</where>
+  <when>after entering a negative value in the Y field</when>
+</req>
